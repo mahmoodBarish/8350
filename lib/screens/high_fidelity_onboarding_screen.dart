@@ -92,7 +92,7 @@ class _HighFidelityOnboardingScreenState extends State<HighFidelityOnboardingScr
                     child: ElevatedButton(
                       onPressed: () {
                         // Navigate to the home screen (inferred route)
-                        context.go('/home');
+                        context.go('/home_page');
                       },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: const Color(0xFFC67C4E), // r: 0.776, g: 0.486, b: 0.305, a: 1
