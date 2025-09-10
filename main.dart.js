@@ -79236,7 +79236,7 @@ o=A.ap_(m,m,B.ao,m,m,m,0,m,m,m,m,m,B.DF,m,new A.cG(A.c5(16),B.r),m,m,m,m,m)
 n=t.p
 return A.L_(m,m,A.kL(B.bE,A.c([l,new A.ec(B.cX,m,m,s,m),A.mh(54+j,new A.ce(B.ea,A.d9(A.c([r,B.NI,q,p,A.b5(A.aoZ(A.ba("Get Started",m,m,m,A.bk().$4$color$fontSize$fontWeight$height(B.i,16,B.K,1.5),m,m),new A.ahd(a),o),56,1/0)],n),B.x,B.A,B.cf),m),m,m,0,0,m,m),A.mh(m,A.zG(!1,new A.ce(B.DR,A.c7(A.c([A.ba("9:41",m,m,m,A.bk().$3$color$fontSize$fontWeight(B.i,15,B.K),m,m),A.c7(B.Gf,B.x,B.A,B.t)],n),B.x,B.aZ,B.t),m),!0),m,m,0,0,0,m),new A.ec(B.cX,m,m,new A.ce(new A.ai(0,0,0,13+j),A.c_(m,m,B.q,m,new A.bs(B.aw,m,m,A.c5(100),m,m,B.G),5,m,m,134),m),m)],n),B.Q,B.bZ))}}
 A.ahd.prototype={
-$0(){A.lK(this.a).ux("/home",null)},
+$0(){A.lK(this.a).ux("/home_page",null)},
 $S:0}
 A.jV.prototype={}
 A.oo.prototype={
